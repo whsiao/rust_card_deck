@@ -14,8 +14,9 @@ Setup Rust and Cargo in local environment:
 Run the bash script in project
 `./build_run_debug.sh`
 
-# Staticc Code Analysis
+# Static Code Analysis
+`cargo clippy`
 
-## Audit cargo
+## Audit cargo dependencies
 `cargo audit`
 
